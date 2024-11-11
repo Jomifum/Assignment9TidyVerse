@@ -4,7 +4,7 @@
 
 For this assignment dataset used is a Dataset that is a collection of hotel bookings information that includes various details about each booking, such as the hotel type, booking dates, customer demographics, booking status, and more. This dataset is useful for analyzing trends in hotel bookings, cancellations, and customer behavior.
 
-
+Dataset extracted from Kaggle portal: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 ## R Markdown
 
 {r ploading-data}
